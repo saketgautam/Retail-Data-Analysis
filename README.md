@@ -6,6 +6,6 @@ A complete dashboard of Walmart Retail Data Analysis.
 
 • Age group from which the company is getting minimum profits,
 
-• Regional quarterly average profit,brand logo
+• Regional quarterly average profit, brand logo
 
 ![Complete dashboard analysis](https://github.com/saketgautam/Retail-Data-Analysis/blob/main/dashboard.png)
